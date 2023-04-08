@@ -6,7 +6,8 @@ Application under test:
 
 API Documentation: 
 
-**The final project will be split into 2 sections: [Testing section](https://github.com/Viziteu/Proiect-practic-Testare-Manuala/edit/main/README.md#11-test-planning) and [SQL section](https://github.com/Viziteu/Proiect-practic-Testare-Manuala/blob/main/README.md#2-sql-section).**
+**The final project will be split into 2 sections: [Testing section](https://github.com/Viziteu/Proiect-practic-Testare-Manuala/edit/main/README.md#11-test-planning) and 
+[SQL section](https://github.com/Viziteu/Proiect-practic-Testare-Manuala/blob/main/README.md#2-sql-section).**
 
 Tools used:
 
